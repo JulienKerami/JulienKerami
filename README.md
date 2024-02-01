@@ -32,8 +32,8 @@ Je suis prêt à relever de nouveaux défis et à apporter une valeur ajoutée s
 
 ## 📫 Me contacter
 - **Email :** [Votre Email](julien.kerami@gmail.com)
-- **LinkedIn :** [Votre Profil LinkedIn]([https://www.linkedin.com/in/votreprofil/](https://www.linkedin.com/in/julienkerami/))
+- **LinkedIn :** [Votre Profil LinkedIn](https://www.linkedin.com/in/julienkerami/)
 
 ---
 
-*“La passion pour l'innovation et la technologie est le moteur de mon parcours professionnel.”* - Julien
+*“La passion pour l'innovation et la technologie sont le moteur de mon parcours professionnel.”* - Julien
