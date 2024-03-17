@@ -31,8 +31,8 @@ Diplômé de l'école de développement web **O'Clock**, où j'ai acquis des com
 Je suis prêt à relever de nouveaux défis et à apporter une valeur ajoutée significative à toute équipe orientée technologie. Je suis particulièrement intéressé par les projets qui nécessitent à la fois une expertise en ingénierie et une approche innovante en matière de résolution de problèmes.
 
 ## 📫 Me contacter
-- **Email :** [Votre Email](julien.kerami@gmail.com)
-- **LinkedIn :** [Votre Profil LinkedIn](https://www.linkedin.com/in/julienkerami/)
+- **Email :** [julien.kerami@gmail.com](julien.kerami@gmail.com)
+- **LinkedIn :** [Julien Kerami - Linkedin](https://www.linkedin.com/in/julienkerami/)
 
 ---
 
